@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Employee\Employee.csproj", "{DB84B030-2976-431C-937A-60222CDA50A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{109D621E-5DF3-4F85-932B-7EDA1004454D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicApp", "MusicApp\MusicApp.csproj", "{5F84C60D-AC44-465F-A307-1015C5E2312F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB84B030-2976-431C-937A-60222CDA50A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB84B030-2976-431C-937A-60222CDA50A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB84B030-2976-431C-937A-60222CDA50A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB84B030-2976-431C-937A-60222CDA50A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109D621E-5DF3-4F85-932B-7EDA1004454D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109D621E-5DF3-4F85-932B-7EDA1004454D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109D621E-5DF3-4F85-932B-7EDA1004454D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109D621E-5DF3-4F85-932B-7EDA1004454D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F84C60D-AC44-465F-A307-1015C5E2312F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F84C60D-AC44-465F-A307-1015C5E2312F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F84C60D-AC44-465F-A307-1015C5E2312F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F84C60D-AC44-465F-A307-1015C5E2312F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A259A3D7-716B-4169-8528-D1CE7849C1C6}
+	EndGlobalSection
+EndGlobal
