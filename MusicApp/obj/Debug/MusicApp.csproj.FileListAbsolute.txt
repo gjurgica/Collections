@@ -1,7 +1,0 @@
-C:\Users\Asus\Desktop\c#\Employee\MusicApp\bin\Debug\MusicApp.exe.config
-C:\Users\Asus\Desktop\c#\Employee\MusicApp\bin\Debug\MusicApp.exe
-C:\Users\Asus\Desktop\c#\Employee\MusicApp\bin\Debug\MusicApp.pdb
-C:\Users\Asus\Desktop\c#\Employee\MusicApp\obj\Debug\MusicApp.csprojAssemblyReference.cache
-C:\Users\Asus\Desktop\c#\Employee\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
-C:\Users\Asus\Desktop\c#\Employee\MusicApp\obj\Debug\MusicApp.exe
-C:\Users\Asus\Desktop\c#\Employee\MusicApp\obj\Debug\MusicApp.pdb
