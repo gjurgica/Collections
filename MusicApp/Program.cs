@@ -49,6 +49,10 @@ namespace MusicApp
             Person Stefan = new Person("Stefan", "Stefanoski", 28, Genre.Techno);
             Person Maria = new Person("Maria", "Campbel", 43, Genre.Classical);
             Person Jane = new Person("Jane", "Doe", 28, Genre.Techno);
+            FansArray.Add(Jerry);
+            FansArray.Add(Stefan);
+            FansArray.Add(Maria);
+            FansArray.Add(Jane);
             Jerry.FavoriteSongs = Songs.Where(song => song.Title.StartsWith("B")).ToList();
             Console.WriteLine("Jerry favorite songs are:\n");
             Jerry.GetFavoritSongs();
