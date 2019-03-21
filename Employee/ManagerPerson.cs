@@ -14,13 +14,13 @@ namespace Employee
             Role = Role.Manager;
             Salary = 1500;
         }
-        public double AddBonus()
+        public void AddBonus(double number)
         {
-            return Bonus;
+            Bonus += number;
         }
         public override double GetSalary()
         {
-            return base.GetSalary() + AddBonus();
+            return base.GetSalary() + Bonus;
         }
     }
 }

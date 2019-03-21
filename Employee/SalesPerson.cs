@@ -14,9 +14,9 @@ namespace Employee
             Role = Role.Sales;
             Salary = 500;
         }
-        public double AddSuccessRevenue(double number)
+        public void  AddSuccessRevenue(double number)
         {
-           return  SuccessSaleRevenue = number;
+             SuccessSaleRevenue += number;
         }
         public override double GetSalary()
         {
